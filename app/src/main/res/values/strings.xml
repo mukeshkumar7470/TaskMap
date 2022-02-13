@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TaskMap</string>
+    <string name="MAPS_API_KEY">AIzaSyDiNF21GAvSuiNE3uCnjH-oPICkWWD6Bys</string>
+</resources>
