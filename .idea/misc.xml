@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Mukesh_Project/TaskMap/app/src/main/res/drawable/ic_arrow_up.xml" value="0.194" />
+        <entry key="..\:/Mukesh_Project/TaskMap/app/src/main/res/drawable/ic_back.xml" value="0.194" />
+        <entry key="..\:/Mukesh_Project/TaskMap/app/src/main/res/drawable/rounded_dialog.xml" value="0.194" />
+        <entry key="..\:/Mukesh_Project/TaskMap/app/src/main/res/layout/activity_main.xml" value="0.17083333333333334" />
+        <entry key="..\:/Mukesh_Project/TaskMap/app/src/main/res/layout/bottom_sheet_dialog_layout.xml" value="0.17083333333333334" />
+        <entry key="..\:/Mukesh_Project/TaskMap/app/src/main/res/layout/custom_info_contents.xml" value="0.17083333333333334" />
+        <entry key="..\:/Mukesh_Project/TaskMap/app/src/main/res/layout/view_custom_marker.xml" value="0.17083333333333334" />
         <entry key="..\:/Users/Mukesh/AndroidStudioProjects/TaskMap/app/src/main/res/drawable/ic_back.xml" value="0.201" />
         <entry key="..\:/Users/Mukesh/AndroidStudioProjects/TaskMap/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/Mukesh/AndroidStudioProjects/TaskMap/app/src/main/res/layout/activity_user_detsail.xml" value="0.36666666666666664" />
